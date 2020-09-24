@@ -3,10 +3,10 @@
   <img src="https://wallpapercave.com/wp/d4emJ2t.jpg" alt="pokemon" />
 </div>
 
-### An exploration in Python3 object oriented programming (OOP) and recursion.
+### An exploration in Python3 data types, object oriented programming (OOP), and recursion.
 
-## Instructions
-You have been given an unfinished Pokémon battle simulator python script that is capable of running infinite simulations of Pokémon battles. Your goal is to complete the pokemon.py battle script to be able to run battle simulations. This task is broken up into 3 parts which will be described below and are also written out inline with the script. 
+## Introduction
+You have been given an unfinished Pokémon battle simulator python script that is capable of running infinite simulations of Pokémon battles. Your goal is to complete the pokemon.py battle script to be able to run battle simulations. This task is broken up into 3 parts which will be described below and are also written out inline with the script.  
 
 ### Part 1
 - `fork` and `clone` this repository. _Maybe give it a star 🙄🤞? Entirely up to you._
@@ -29,7 +29,7 @@ You have been given an unfinished Pokémon battle simulator python script that i
 ### Part 3
 - Find the section for Part 3, labelled `# PART 3` in the battle functions section of the script.
 - Your goal is to finish the `battle()` function, which has instructions pseudocoded for your use.
-- Once you've completed the function, you can test your simulation! Make sure that `intro()` is being called in at the bottom of the script
+- Once you've completed the function, you can test your simulation! Make sure that `intro()` is being called in at the bottom of the script.
 - Congratulations! You should now be able to run infinite (and accurate) Pokémon battle simulations with this script. 
 
 ### Bonus
@@ -37,3 +37,5 @@ You have been given an unfinished Pokémon battle simulator python script that i
   - Create a probability function to test the probability of one Pokémon defeating another.
   - Add functionality for team battles.
   - Add functionality for status moves, recovery moves, accuracy, additional move effects, or multi-turn moves. 
+  
+  Enjoy your Pokémon battle simulator!
