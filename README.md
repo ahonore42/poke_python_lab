@@ -38,4 +38,5 @@ You have been given an unfinished Pokémon battle simulator python script that i
   - Add functionality for team battles.
   - Add functionality for status moves, recovery moves, accuracy, additional move effects, or multi-turn moves. 
   
-  Enjoy your Pokémon battle simulator!
+  
+  Have fun with your new Pokémon battle simulator!
