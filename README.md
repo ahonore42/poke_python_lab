@@ -34,9 +34,14 @@ You have been given an unfinished Pokémon battle simulator python script that i
 
 ### Bonus
 - These are all completely unnecessary but if you're ever feeling up to the challenge, here are some ideas:
+  - Implement the RESTful Pokémon API: https://pokeapi.co/ . It might be nice to also seed a database with a couple API calls, but that's a major stretch goal.
   - Create a probability function to test the probability of one Pokémon defeating another.
   - Add functionality for team battles.
   - Add functionality for status moves, recovery moves, accuracy, additional move effects, or multi-turn moves. 
-  
+  <br />
+  <div>
+    <img src="https://i.imgur.com/OpUVg9z.gif" alt="battle" />
+  </div>
   
   Have fun with your new Pokémon battle simulator!
+  
